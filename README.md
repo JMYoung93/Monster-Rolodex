@@ -1,5 +1,3 @@
-# Monster Rolodex
-
 React-based application to demonstrate skills learned with React 
 
 # Use
