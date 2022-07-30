@@ -1,4 +1,4 @@
-React-based application to demonstrate skills learned with React 
+React-based application to demonstrate skills learned with React components, GET requests from open source APIs, and using JSX
 
 # Use
 
