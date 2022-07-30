@@ -13,7 +13,9 @@ robohash: (https://robohash.org) - Creates and provides unique images of robots.
 
 ## How To Start
 
-In the project directory, you can run:
+-Clone repository over to local machine 
+
+-In the project directory, you can run the following CLI commands:
 
 ### `npm start`
 
